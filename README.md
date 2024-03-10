@@ -2,11 +2,11 @@
 
 ![Nobel Prize logo](https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?20131011153104)
 
-This project analyzes Nobel Prize winner data to identify patterns and answer specific questions related to laureates, including their gender, birth country, and notable achievements.
+## 📺 Project Description (From Datacamp)
 
-# Dataset Description:
+The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also gets a gold medal with an image of Alfred Nobel (1833 - 1896), who established the prize. The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API and is available in the nobel.csv file in the data folder.
 
-The dataset used in this project is sourced from the Nobel Prize API and is available in the 'data/nobel.csv' file. The dataset includes information about Nobel Prize laureates from 1901 to 2023.
+In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
 
 # Libraries Used:
 
